@@ -24,6 +24,6 @@
 - Open **Settings** -> **Themes** -> **File Icons Theme**
 - Choose **`Savari Icons`**
 
-**Credit**
+## Credits
 
-- Icons from [Chunk 16px Thick Interface Icons Collection](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons)
+Icons from [Icons Collection](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons)

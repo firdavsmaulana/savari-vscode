@@ -11,4 +11,6 @@
 - Activate Theme: `Settings` → `Themes` → `Color Theme` → Choose: "Savari Themes"
 - Activate Icon: `Settings` → `Themes` → `File Icons Theme` → Choose: "Savari Icons"
 
-The theme uses icons from [collections](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons). We hope this theme enhances your productivity and makes coding more enjoyable. Thank you!
+---
+
+**Credits:** The theme uses icons from [collections](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons).

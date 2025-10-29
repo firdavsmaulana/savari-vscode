@@ -4,12 +4,12 @@
 
 ![Savari Theme Preview](./screenshot.png)
 
-## Getting Started
+### Getting Started
 
 - Go to `Extensions` or `Ctrl+Shift+X` → Search: `Savari` → `Install`
 - Activate Theme: `Settings` → `Themes` → `Color Theme` → Choose: `Savari Themes`
 - Activate Icon: `Settings` → `Themes` → `File Icons Theme` → Choose: `Savari Icons`
 
-## Credits
+### Credits
 
 Icons by [Icon Collections](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons)

@@ -7,10 +7,10 @@
 ## How to Install
 
 - Go to `Extensions` or `Ctrl+Shift+X`
-- Search: "Savari" → `Install`
-- Activate Theme: `Settings` → `Themes` → `Color Theme` → Choose: "Savari Themes"
-- Activate Icon: `Settings` → `Themes` → `File Icons Theme` → Choose: "Savari Icons"
+- Search: `Savari` → `Install`
+- Activate Theme: `Settings` → `Themes` → `Color Theme` → Choose: `Savari Themes`
+- Activate Icon: `Settings` → `Themes` → `File Icons Theme` → Choose: `Savari Icons`
 
 ---
 
-**Credits:** The theme uses icons from [Icon Collections](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons).
+`Credits` The theme uses icons from [Icon Collections](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons)

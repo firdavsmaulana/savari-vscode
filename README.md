@@ -4,7 +4,7 @@
 
 ![Savari Theme Preview](./screenshot.png)
 
-### How to Install
+## How to Install
 
 - Go to `Extensions` or `Ctrl+Shift+X`
 - Search: "Savari" → `Install`

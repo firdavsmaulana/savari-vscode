@@ -13,4 +13,4 @@
 
 ---
 
-**Credits:** The theme uses icons from [collections](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons).
+**Credits:** The theme uses icons from [Icon Collections](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons).

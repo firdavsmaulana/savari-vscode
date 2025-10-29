@@ -9,21 +9,21 @@
 - Comfortable, minimalist colors, optimized for long coding sessions, and calm for better readability.
 - Simple, clean icons that minimize distractions and keep the focus on the code structure.
 
-## How to Install
+### How to Install
 
 - Open VS Code. Go to **Extensions**
 - Search: **`Savari`** -> **Install**
 
-  ### 1. How to Activate Theme
+### 1. How to Activate Theme
 
-  - Open **Settings** -> Click **Themes** -> **Color Theme**
-  - Choose **`Savari Themes`**
+- Open **Settings** -> Click **Themes** -> **Color Theme**
+- Choose **`Savari Themes`**
 
-  ### 2. How to Activate Icon
+### 2. How to Activate Icon
 
-  - Open **Settings** -> **Themes** -> **File Icons Theme**
-  - Choose **`Savari Icons`**
+- Open **Settings** -> **Themes** -> **File Icons Theme**
+- Choose **`Savari Icons`**
 
-## Credits
+### Credits
 
 Icons from [Icons Collection](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons)

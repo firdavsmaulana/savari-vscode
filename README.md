@@ -1,6 +1,8 @@
+# Savari Theme
+
 **Savari** is a dark theme for Visual Studio Code designed for visual comfort and readability during long coding sessions. Its colors are inspired by natural tones, creating a calm and focused atmosphere for your work. Perfect for developers who prefer a quiet, distraction-free environment that stays comfortable over time.
 
-<!-- ![Savari Theme Preview](screenshot.PNG) -->
+![Savari Theme Preview](./screenshot.PNG)
 
 **Features**
 

@@ -6,11 +6,10 @@
 
 ### How to Install
 
-- Open Visual Studio Code.
 - Go to `Extensions` or `Ctrl+Shift+X`
-- Search: ==Savari== → `Install`
-- Activate Theme: Open `Settings` → Click `Themes` → `Color Theme` → Choose ==Savari Themes==
-- Activate Icon: Open `Settings` → `Themes` → `File Icons Theme` → Choose ==Savari Icons==
+- _Search:_ "Savari" → `Install`
+- _Activate Theme:_ `Settings` → `Themes` → `Color Theme` → Choose "Savari Themes"
+- _Activate Icon:_ `Settings` → `Themes` → `File Icons Theme` → Choose "Savari Icons"
 
 ### Credits
 

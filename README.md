@@ -1,4 +1,4 @@
-# Savari Theme
+# Savari VS Code Theme
 
 ![Savari Theme Preview](./screenshot.png)
 

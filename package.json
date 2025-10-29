@@ -1,0 +1,51 @@
+{
+  "name": "savari-vscode",
+  "displayName": "Savari",
+  "version": "0.0.1",
+  "description": "Dark theme for comfortable long coding sessions.",
+  "publisher": "firdavsmaulana",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "earth",
+    "ground",
+    "safari",
+    "wild",
+    "forest",
+    "dark-theme",
+    "vscode-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/firdavsmaulana/savari-vscode"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Savari Themes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/savari-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "savari-icons",
+        "label": "Savari Icons",
+        "path": "./themes/savari-icon.json"
+      }
+    ],
+    "configurationDefaults": {
+      "editor.fontFamily": "'JetBrains Mono', monospace",
+      "editor.fontLigatures": true,
+      "editor.fontSize": 14,
+      "editor.lineHeight": 1.6
+    }
+  }
+}

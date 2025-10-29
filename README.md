@@ -1,15 +1,15 @@
 # Savari VS Code Theme
 
-![Savari Theme Preview](./screenshot.png)
-
 **Savari** is a dark theme for Visual Studio Code designed for visual comfort and readability during long coding sessions. Its colors are inspired by grounded nature tones, creating a calm and focused atmosphere for your work. Perfect for developers who prefer a quiet, distraction-free environment that stays comfortable over time.
+
+![Savari Theme Preview](./screenshot.png)
 
 ### How to Install
 
 - Go to `Extensions` or `Ctrl+Shift+X`
-- _Search:_ "Savari" → `Install`
-- _Activate Theme:_ `Settings` → `Themes` → `Color Theme` → Choose "Savari Themes"
-- _Activate Icon:_ `Settings` → `Themes` → `File Icons Theme` → Choose "Savari Icons"
+- Search: "Savari" → `Install`
+- Activate Theme: `Settings` → `Themes` → `Color Theme` → Choose: "Savari Themes"
+- Activate Icon: `Settings` → `Themes` → `File Icons Theme` → Choose: "Savari Icons"
 
 ### Credits
 

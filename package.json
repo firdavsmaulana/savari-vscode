@@ -1,7 +1,7 @@
 {
   "name": "savari-vscode",
   "displayName": "Savari",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Dark theme for comfortable long coding sessions.",
   "publisher": "firdavsmaulana",
   "engines": {

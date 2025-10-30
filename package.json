@@ -1,13 +1,13 @@
 {
   "name": "savari-vscode",
   "displayName": "Savari",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Dark theme for comfortable long coding sessions.",
   "publisher": "firdavsmaulana",
   "engines": {
     "vscode": "^1.80.0"
   },
-  "icon": "icon.png",
+  "icon": "theme-icon.png",
   "categories": [
     "Themes"
   ],

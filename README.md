@@ -12,4 +12,4 @@
 
 ---
 
-Credits : Icons by [Icon Collections](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons)
+Credits: Icons by [Icon Collections](https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons)
